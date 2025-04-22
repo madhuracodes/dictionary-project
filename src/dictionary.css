@@ -1,0 +1,11 @@
+.Dictionary {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 600px;
+}
+
+.Dictionary h1 {
+  margin-bottom: 30px;
+}
